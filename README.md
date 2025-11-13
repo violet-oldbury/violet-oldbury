@@ -4,6 +4,7 @@
 
 - <b>C#</b>
   - a project
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>C++</b>
   - a project
 
