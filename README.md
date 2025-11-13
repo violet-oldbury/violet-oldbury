@@ -12,8 +12,8 @@
 
 <h2>Connect with me:</h2>
 
-[<img align="left" alt="Violet Oldbury | LinkedIn" width="22px" height="22px" src="https://github.com/user-attachments/assets/8994a342-cc45-45bd-a99e-e5a7595289a7" />][linkedin]
-[<img align="left" alt="Violet Oldbury | Indeed" width="22px" height="22px" src="https://github.com/user-attachments/assets/da876771-ceea-4b1d-892e-e0f663708e78" />][Indeed]
+[<img align="left" alt="Violet Oldbury | LinkedIn" width="22px" height="22px" src="https://github.com/user-attachments/assets/c933472a-7132-48f4-88d8-13eefebd7b0d" />][linkedin]
+[<img align="left" alt="Violet Oldbury | Indeed" width="22px" height="22px" src="https://github.com/user-attachments/assets/7c33f9cf-7996-4a11-978a-f32fa7f7fdbd" />][Indeed]
 [<img align="left" alt="Violet Oldbury | Canva" width="22px" height="22px" src="https://github.com/user-attachments/assets/0a23ce3d-694e-4933-996f-06c7848d67bf" />][Canva]
 
 [linkedin]: https://www.linkedin.com/in/violet-oldbury-8b0901397/
