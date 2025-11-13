@@ -3,8 +3,7 @@
 <h2>Software Development Projects:</h2>
 
 - <b>C#</b>
-  - a project
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [intergrating windows media player into a windows forms app](https://github.com/violet-oldbury/Meowseek-music-player)
 - <b>C++</b>
   - a project
 
