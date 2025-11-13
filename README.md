@@ -1,4 +1,4 @@
-<h1>Hi, I'm Violet! <br/><a href="https://github.com/violet-oldbury">Programmer</a>, <a href="https://profile.indeed.com/?hl=en_GB&co=GB&from=gnav-jobseeker-profile--profile-one-frontend">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/violet-oldbury-8b0901397/">YouTuber</a></h1>
+<h1>Hi, I'm Violet! <br/><a href="https://github.com/violet-oldbury">Programmer</a>, <a href="https://profile.indeed.com/?hl=en_GB&co=GB&from=gnav-jobseeker-profile--profile-one-frontend">Back-end developer</a>, <a href="https://www.linkedin.com/in/violet-oldbury-8b0901397/">Project planner</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
