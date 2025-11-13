@@ -12,7 +12,7 @@
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="Violet Oldbury | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Violet Oldbury | Indeed" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://www.streamlinehq.com/icons/download/indeed--31088)" />][Indeed]
+[<img align="left" alt="Violet Oldbury | Indeed" width="22px" src="(https://www.streamlinehq.com/icons/download/indeed--31088)" />][Indeed]
 [<img align="left" alt="Violet Oldbury | Canva" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Canva]
 
 [linkedin]: https://www.linkedin.com/in/violet-oldbury-8b0901397/
