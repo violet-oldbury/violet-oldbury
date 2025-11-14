@@ -4,11 +4,12 @@
 
 - <b>C#</b>
   - [intergrating windows media player into a windows forms app](https://github.com/violet-oldbury/Meowseek-music-player)
+  - [reading and writing to and from files](https://github.com/violet-oldbury/Blackmoor-Zoo-booking-system)
 - <b>C++</b>
-  - a project
+  - no project uploaded yet
 
 - <b>Python</b>
-  - a project
+  - no project uploaded yet
 
 <h2>Connect with me:</h2>
 
