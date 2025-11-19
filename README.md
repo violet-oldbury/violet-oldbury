@@ -6,8 +6,6 @@
   - [intergrating windows media player into a windows forms app](https://github.com/violet-oldbury/Meowseek-music-player)
   - [reading and writing to and from files](https://github.com/violet-oldbury/Blackmoor-Zoo-booking-system)
   - [reading and writing to and from files and intergrating other features](https://github.com/violet-oldbury/chestnut-cafe-system)
-- <b>C++</b>
-  - no project uploaded yet
 
 - <b>Python</b>
   - no project uploaded yet
